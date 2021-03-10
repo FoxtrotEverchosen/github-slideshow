@@ -2,5 +2,5 @@ _ _ _
 layout: slide
 title: "Welcome to slide!"
 _ _ _
-Your text
+SAID SOMETHING
 Use the left arrow to go back!
